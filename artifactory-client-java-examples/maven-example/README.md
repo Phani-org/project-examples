@@ -1,4 +1,4 @@
-# Maven Artifactory Java Client Example
+## Maven Artifactory Java Client Example
 
 ## Introduction
 This example provides a project structure for using the Artifactory Java Client in a maven project.
